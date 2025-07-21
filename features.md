@@ -18,4 +18,4 @@ See real time results and keep a public record of each vote
 Restrict participation to verified residents of a specific neighborhood or community
 
 ### 🌐 Multi Language Support
-Use the platform in multiple languages (currently English with Spanish and Portuguese coming soon)
+Use the platform in multiple languages (currently English more coming soon)
