@@ -43,9 +43,9 @@ The complete project, including all files and assets is available as a single ZI
 📥 [Download Full Project ZIP : https://drive.proton.me/urls/ZN0PZA4H0W#msjmKK4XBVXm <br>
 🌐 Live Platform : https://neighborhoodassembly.org
 
-> 🔐 End-to-end encrypted – safe and private  
-> ⏳ Link valid indefinitely  
-> 💡 Ideal for backup or offline use
+ 🔐 End-to-end encrypted – safe and private  
+ ⏳ Link valid indefinitely  
+ 💡 Ideal for backup or offline use
 
 ---
 
@@ -71,8 +71,8 @@ If you're using **Visual Studio Code**:
 
 ---
 
-> ✅ This project is open source and ready to be improved.  
-> Feel free to fork, customize, and share!
+ ✅ This project is open source and ready to be improved.  
+ Feel free to fork, customize, and share!
 
 ### 📚 Learn more
 
