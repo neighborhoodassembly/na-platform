@@ -37,18 +37,29 @@ This repository contains the complete source code of the platform. It's designed
 
 ---
 
+## 📦 Download Full Project (ZIP)
+The complete project, including all files and assets is available as a single ZIP file via **Proton Drive** (secure & encrypted).
+
+📥 [Download Full Project ZIP – Click Here]([https://drive.proton.me/urls/YOUR-PROTON-LINK-HERE](https://drive.proton.me/urls/ZN0PZA4H0W#msjmKK4XBVXm))
+
+> 🔐 End-to-end encrypted – safe and private  
+> ⏳ Link valid indefinitely  
+> 💡 Ideal for backup or offline use
+
+---
+
 ## 🔧 How to Open and Use the Project
 
 ### Option 1: Open Directly in Your Browser
-1. Download the repository as a ZIP or clone it.
-2. Extract the folder.
-3. Double-click on `index.html` and it will open in your default browser.
+1. Download or clone this repository.
+2. Extract the folder (if needed).
+3. Double-click on `index.html` — it will open in your browser instantly.  
 
-### Option 2: Run Locally with a Live Server (Recommended for Development)
+### Option 2: Run with Live Server (Recommended for Development)
 If you're using **Visual Studio Code**:
-1. Install the **"Live Server"** extension.
+1. Install the **[Live Server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)**.
 2. Right-click on `index.html` and select **"Open with Live Server"**.
-3. The project will open at `http://127.0.0.1:5500`.
+3. View your project at: `http://127.0.0.1:5500`
 
 ---
 
