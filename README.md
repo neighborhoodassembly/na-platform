@@ -40,8 +40,8 @@ This repository contains the complete source code of the platform. It's designed
 ## 📦 Download Full Project (ZIP)
 The complete project, including all files and assets is available as a single ZIP file via **Proton Drive** (secure & encrypted).
 
-## 📥 [Download Full Project ZIP : https://drive.proton.me/urls/ZN0PZA4H0W#msjmKK4XBVXm
-## 🌐 Live Platform : https://neighborhoodassembly.org
+📥 [Download Full Project ZIP : https://drive.proton.me/urls/ZN0PZA4H0W#msjmKK4XBVXm
+🌐 Live Platform : https://neighborhoodassembly.org
 
 > 🔐 End-to-end encrypted – safe and private  
 > ⏳ Link valid indefinitely  
